@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@tensorflow-models/coco-ssd": "^2.2.2",
+    "@tensorflow/tfjs": "^4.7.0",
     "autoprefixer": "10.4.14",
     "next": "13.4.4",
     "postcss": "8.4.24",
